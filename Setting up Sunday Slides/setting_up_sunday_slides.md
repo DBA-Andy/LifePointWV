@@ -1,5 +1,5 @@
 # Setting up Sunday Slides Overview
-- Matthew will send his notes by Thursday morning, but there could be changes.  Final notes by noon on Sunday.
+- Matthew will send his notes by Thursday morning, but there could be changes.  Final notes by noon on Saturday.
   - We work from his outline, not the notes in the e-mail.  Look for the highlighted items in his outline.  
     - If there are talking points between verses, that’s an indication the verses will be on separate slides.
 - We download the worship slides from [Lifepoint's FTP server](https://gofile.me/6WE6j/VxLTcyStx)
@@ -29,7 +29,7 @@
     ![File Transfer 1](./file_transfer1.png)
   - Click on "Open File Transfer"
     ![File Transfer 2](./file_transfer2.png)
-  - Navigate to whereever you downloaded the file on your local machine, and the downloads folder on the mac mini (see screenshot above)
+  - Navigate to wherever you downloaded the file on your local machine, and the downloads folder on the mac mini (see screenshot above)
   - Select the file you wish to transfer and then click "Send"
     ![Send File](./send_file.png)
   - Once the transfer is complete, click "close."  
@@ -46,15 +46,19 @@
     
     ![Playlist Samples](./playlist_samples.png)
   - Select the LC Playlist we just imported so we can add the worship set to our playlist.
-  - It's probably easiest to "add" everything and then remove what we don't want, so click on the first item, hold down the shift key, then click on the last time.
+  - It's probably easiest to "add" everything and then remove what we don't want, so click on the first item, hold down the shift key, then click on the last item.
+
     ![Select all Items](./select_all_items.png)
   - Right-Click on the list of selected items, then click "Add to" then the Playlist we created for this week.
     ![Add to Playlist](./add_to_playlist.png)
   - We are now technically done with the "LC" playlist and could remove it from our view if we wanted by right-clicking and clicking "delete."
   - Left-Click on the playlist for the week we're setting up.
   - Compare the order in the playlist to the order in Planning Center online.
+    - Planning Center
     ![Planning center order](./planning_center_order.png)
-  - On rare occasions, we'll have a different worship set at Westerville than Lewis Center.  This week was one such week.  In comparing the screenshots below, you'll see we're doing "All for you", "The Lion And the Lamb", the "Pastoral Moment", then "Every Victory" for opening worship, and the closing song is "Son of Suffering."  See [Adding Songs from the Library](../adding-songs-from-the-library/adding_songs_from_the_library.md) for more info.
+    - LC Playlist we downloaded from the FTP Site:
+    ![LC Playlist](./LC_Playlist.png)
+  - On rare occasions, we'll have a different worship set at Westerville than Lewis Center.  This week was one such week.  In comparing the screenshots above, you'll see we're doing "All for you", "The Lion And the Lamb", the "Pastoral Moment", then "Every Victory" for opening worship, and the closing song is "Son of Suffering."  See [Adding Songs from the Library](../adding-songs-from-the-library/adding_songs_from_the_library.md) for more info.  Planning Center is King - What's in Planning Center is what we'll be doing on Sunday!
   - Once I have the worship songs in, I generally text Caleb at (763) 237-4244 and tell him what position in the playlist the worship songs are in.  MOST of the time, it's 4, 5, 6, and 11.  Note, in the screenshot, the headers for each portion of service also count as a position.
     ![count positions](./counting_positions.png)
   - Now, we have to make sure things are set up for "Westerville" instead of "Lewis Center."
@@ -100,7 +104,7 @@
         - To "Split a slide" there's a keyboard shortcut "Option + Enter."  If you're doing this remotely on a windows machine, it's "ALT+Enter."  I use this when it's a long verse that needs split to multiple slides.  Again, I count the number of lines, then try to split the lines evenly across some number of slides with 6 lines or less.
       - If it's a point slide, and the point is long, I'll usually try to split it onto two lines so it doesn't look "bad" on the projector.
         ![Point Slide Layout](./point_slide_layout.png)
-    - Basically, you'll copy/paste from Matthew's outline, to the slide/repeat.
+    - Basically, you'll copy/paste from Matthew's outline to the slide -> format -> repeat.
 
       
 

@@ -61,6 +61,7 @@
       ![LC Playlist](./LC_Playlist.png)
   - On rare occasions, we'll have a different worship set at Westerville than Lewis Center.  This week was one such week.  In comparing the screenshots above, you'll see we're doing "All for you", "The Lion And the Lamb", the "Pastoral Moment", then "Every Victory" for opening worship, and the closing song is "Son of Suffering."  See [Adding Songs from the Library](../adding-songs-from-the-library/adding_songs_from_the_library.md) for more info.  Planning Center is King - What's in Planning Center is what we'll be doing on Sunday!
   - Once I have the worship songs in, I generally text Caleb at (763) 237-4244 and tell him what position in the playlist the worship songs are in.  MOST of the time, it's 4, 5, 6, and 11.  Note, in the screenshot, the headers for each portion of service also count as a position.
+    
     ![count positions](./counting_positions.png)
   - Now, we have to make sure things are set up for "Westerville" instead of "Lewis Center."
     - For each song, we need to make sure the "Worship Look" Macro is properly selected.  For some, it is, for others it isn't.

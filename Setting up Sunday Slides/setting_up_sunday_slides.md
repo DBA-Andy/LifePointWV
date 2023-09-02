@@ -38,10 +38,12 @@
 ## Importing and setting up Worship Slides
   - Once you have gotten the worship slides file (PROPLAYLIST FILE) onto the Mac Mini, we're ready to import it into pro presenter, and add it to this week's playlist.
   - In ProPresenter, click on "File-> Import -> File"
+    
     ![Import File](./file_importFile.png)
   - In the resulting dialogue box, navigate to the downloads folder and choose this week's PROPLAYLIST file.
     ![Select and Import File](./select_and_import_file.png)
   - Because of the way we name our playlists, vs the way LC names the PROPLAYLIST file, we see something like the below.  We name our playlist "MM-DD-YYYY" and they theirs "M.DD.YYYY AM" generally.
+    
     ![Playlist Samples](./playlist_samples.png)
   - Select the LC Playlist we just imported so we can add the worship set to our playlist.
   - It's probably easiest to "add" everything and then remove what we don't want, so click on the first item, hold down the shift key, then click on the last time.
@@ -61,6 +63,7 @@
         - Good
         ![Good Macro Example](./good_macro_example.png)
         - Bad
+        
         ![Bad Macro Example](./bad_macro_example.png)
     - ***NOTE*** It's ***most*** important to have the macro on the first song of the worship set and the closing song, but it's good practice to put them on all.  The macro changes from the countdown timer on the confidence monitor to lyrics on the confidence monitor.
     - For each song, we need to make sure we've applied the Westerville Theme.  The Macro is supposed to make sure the theme is good, but it doesn't always catch everything, so we err on the side of caution.

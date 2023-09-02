@@ -63,7 +63,7 @@
         - Good
         ![Good Macro Example](./good_macro_example.png)
         - Bad
-        
+
         ![Bad Macro Example](./bad_macro_example.png)
     - ***NOTE*** It's ***most*** important to have the macro on the first song of the worship set and the closing song, but it's good practice to put them on all.  The macro changes from the countdown timer on the confidence monitor to lyrics on the confidence monitor.
     - For each song, we need to make sure we've applied the Westerville Theme.  The Macro is supposed to make sure the theme is good, but it doesn't always catch everything, so we err on the side of caution.
@@ -72,6 +72,37 @@
         - Once all the slides for that song are selected, Right-Click -> Themes -> WV Lyrics -> Theme Slide
           ![WV Lyrics](./wv_lyrics.png)
       - Repeat for each song in the worship set this week.
+
+## Setting up Sermon Slides
+  - As mentioned in the overview, Matthew will generally send his outline on Thursday, and send a final copy on Saturday.  The final copy should be compared against what you've already set up, if you set things up based on the Thursday copy, just to be safe.  Items highlighted yellow are what Matthew wants slides for.
+  - Open Matthew's Outline
+  - On the mac mini, unless it's a new series, I generally find it easier to just duplicate a previous week's sermon slides.
+    - Open last week's playlist, right-click on the sermon slides, and click "Show in Library."
+    - Right-Click on the slideshow and click "Duplicate."
+    - Right-Click on the duplicate slideshow and click "Rename"
+    - Change the date from last week to this week's date.
+    - Right-Click on the new slideshow and "Add To" this week's playlist
+  - Click back on this week's playlist
+  - Now we remove all last week's slides from this week's slideshow.
+    - We leave the slide for the series.  So I click on the slide ***after*** that, then scroll down to the bottom, hold down the shift key, and click on the slide before the title slide at the end of the presentation.
+    - Right-Click and click "Delete."
+  - Now we're ready to to add this week's "stuff."
+    - The general flow tends to be POINT -> Versus to teach/support the point.  
+    - Right-Click on the Series slide and click "Edit Slide" or click "Edit" in the Bar above the Libary
+      ![edit sermon slides](./edit_sermon_slides.png)
+    - From here, things get pretty repetitive:
+      - Click the "Add Blank Slide" + symbol, then I usually use the "Labels Verse" theme, and either Point or Verse, depending on the context of the slide.
+        ![Add blank slide](./add_blank_slide.png)
+      - If it's a verse, and it won't all fit on 1 slide (usually more than about 6 lines), I count the number of lines and try to make the slides roughly even on number of lines.
+        - We center the verse header, then left justify the actual verse.
+        - I also generally center the text on the slide vertically.
+          ![Verse Slide Layout](./verse_slide_layout.png)
+        - To "Split a slide" there's a keyboard shortcut "Option + Enter."  If you're doing this remotely on a windows machine, it's "ALT+Enter."  I use this when it's a long verse that needs split to multiple slides.  Again, I count the number of lines, then try to split the lines evenly across some number of slides with 6 lines or less.
+      - If it's a point slide, and the point is long, I'll usually try to split it onto two lines so it doesn't look "bad" on the projector.
+        ![Point Slide Layout](./point_slide_layout.png)
+    - Basically, you'll copy/paste from Matthew's outline, to the slide/repeat.
+
+      
 
 
 

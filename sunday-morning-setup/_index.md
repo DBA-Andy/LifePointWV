@@ -1,7 +1,7 @@
 ## Sunday morning Setup - Rehearsal
 - When we arrive on Sunday, we power on the devices that will be used for Visual effects during service.
   - There are 3 remotes in the booth near the mac mini.  They are for the Projector, the Roku TV (Confidence Monitor), and the Apple TV (Confidence Monitor).
-    - The Confidence monitor runs of the HDMI 1 input on the Roku TV and works wirelessly with the Mac Mini
+    - The Confidence monitor runs off the HDMI 1 input on the Roku TV and works wirelessly with the Mac Mini
   - To try to prevent issues during service, we reboot the mac mini and the apple TV on arrival.
 
 - Reboot the Mac Minu and launch both pro presenter and spotify.  

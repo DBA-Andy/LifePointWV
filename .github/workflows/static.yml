@@ -27,6 +27,6 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public  # Path to the Hugo generated HTML files
         publish_branch: gh-pages  # Branch where the site will be deployed
-        publish_repo: ${{ github.repository }}  # Repository to deploy to
+        # publish_repo: ${{ github.repository }}  # Repository to deploy to
         enable_jekyll: false  # Disable Jekyll processing for Hugo
 

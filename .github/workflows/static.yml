@@ -1,32 +1,47 @@
-name: Build and Deploy Hugo Site
-
-on:
-  push:
-    branches:
-      - main  # Customize this branch name to match your repository's main branch
+name: 'Hugo Publish'
+description: 'Github action to deploy Hugo blog which preserves the history and keeps commit messgages on partiy with the publishing branch'
+author: 'avi'
 
 jobs:
-  build_and_deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+          fetch-depth: 0
 
-    - name: Set up Hugo
-      uses: peaceiris/actions-hugo@v2
-      with:
-        hugo-version: 'latest'
+      - name: install hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
 
-    - name: Build Hugo site
-      run: hugo --minify
+      - name: clean up
+        run: |
+          if [ -d "public" ]; then
+            rm -rf public
+          fi
 
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./public  # Path to the Hugo generated HTML files
-        publish_branch: gh-pages  # Branch where the site will be deployed
-        # publish_repo: ${{ github.repository }}  # Repository to deploy to
-        enable_jekyll: false  # Disable Jekyll processing for Hugo
+      - name: setup
+        id: vars
+        run: |
+          echo "::set-output name=commit_msg::$(git log -1 --pretty=%B)"
+          git worktree add public gh-pages
 
+      - name: build
+        run: hugo --minify
+
+      - name: commit
+        run: |
+          cd public
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          if [ "`git status -s`" ]
+          then
+            git add --all
+            git commit -am "deployed: ${{ steps.vars.outputs.commit_msg }}"
+          fi     
+
+      - name: deploy
+        run: git push --all

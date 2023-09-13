@@ -35,3 +35,5 @@ theme = 'relearn'
     mediaType = 'text/html'
     permalinkable = false
     noUgly = true
+
+themeVariant=[ "blue", "relearn-light", "relearn-dark", "relearn", "green", "neon", "red" ]

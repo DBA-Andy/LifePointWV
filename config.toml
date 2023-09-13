@@ -36,4 +36,4 @@ theme = 'relearn'
     permalinkable = false
     noUgly = true
 
-themeVariant=[ "blue", "relearn-light", "relearn-dark", "relearn", "green", "neon", "red" ]
+themeVariant = [ "blue", "relearn-light", "relearn-dark", "relearn", "green", "neon", "red" ]

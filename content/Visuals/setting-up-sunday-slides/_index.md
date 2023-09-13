@@ -2,7 +2,6 @@
 title: "Setting up Sunday Slides"
 ---
 
-# Setting up Sunday Slides Overview
 - Matthew will send his notes by Thursday morning, but there could be changes.  Final notes by noon on Saturday.
   - We work from his outline, not the notes in the e-mail.  Look for the highlighted items in his outline.  
     - If there are talking points between verses, that’s an indication the verses will be on separate slides.

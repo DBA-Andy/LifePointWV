@@ -24,12 +24,14 @@ weight: 4
 
 ## Sunday morning Setup - First service
 - Once rehearsal is finished, we have about 30 minutes (generally) before service starts.
+  - Select option "2" on the lighting panel to set the lights to "walk-in/walk-out" lighting.
   - There are 3 "time" slides in the Pre-Service section of Pro Presenter.  For first service, we click on the "9 o'clock" timer and then the video from Lewis Center
   - Start the "Pre service" playlist in spotify
   - Attend "Pre Service huddle."
 
 ## Sunday morning Setup - Second service
 - Once First Service is finished, we have about 30 minutes (generally) before service starts.
+  - Select option "2" on the lighting panel to set the lights to "walk-in/walk-out" lighting.
   - There are 3 "time" slides in the Pre-Service section of Pro Presenter.  For second service, we click on the "10:30" timer and then the video from Lewis Center
   - Start the "Pre service" playlist in spotify
   - Make any adjustments needed to sermon or worship slides after first service.  
@@ -37,6 +39,7 @@ weight: 4
 
 ## Sunday morning Setup - Third service
 - Once Second Service is finished, we have about 30 minutes (generally) before service starts.
+  - Select option "2" on the lighting panel to set the lights to "walk-in/walk-out" lighting.
   - There are 3 "time" slides in the Pre-Service section of Pro Presenter.  For second service, we click on the "12:00" timer and then the video from Lewis Center
   - Start the "Pre service" playlist in spotify
   - Make any adjustments needed to sermon or worship slides after second service.  

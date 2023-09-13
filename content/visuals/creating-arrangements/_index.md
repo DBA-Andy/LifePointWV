@@ -1,5 +1,6 @@
 ---
 title: "Creating Arrangements"
+weight: 3
 ---
 
 ## Arrangements

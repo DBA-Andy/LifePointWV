@@ -1,5 +1,6 @@
 ---
 title: "Adding Songs from Library"
+weight: 2
 ---
 
 ## Adding songs from the Library

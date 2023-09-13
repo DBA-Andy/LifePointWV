@@ -1,5 +1,6 @@
 ---
 title: "Sunday Morning Setup"
+weight: 4
 ---
 
 ## Sunday morning Setup - Rehearsal

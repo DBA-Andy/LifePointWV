@@ -1,5 +1,6 @@
 ---
 title: "Setting up Sunday Slides"
+weight: 1
 ---
 
 - Matthew will send his notes by Thursday morning, but there could be changes.  Final notes by noon on Saturday.

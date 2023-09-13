@@ -1,3 +1,7 @@
+---
+title: "Sunday Morning Setup"
+---
+
 ## Sunday morning Setup - Rehearsal
 - When we arrive on Sunday, we power on the devices that will be used for Visual effects during service.
   - There are 3 remotes in the booth near the mac mini.  They are for the Projector, the Roku TV (Confidence Monitor), and the Apple TV (Confidence Monitor).

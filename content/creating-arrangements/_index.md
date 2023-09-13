@@ -1,3 +1,7 @@
+---
+title: "Creating Arrangements"
+---
+
 ## Arrangements
 - Arrangements are useful when we want to repeat the bridge, or a verse.  They're also useful when we want to cut bridges or verses.  
 

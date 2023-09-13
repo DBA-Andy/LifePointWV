@@ -40,6 +40,6 @@ weight: 4
   - There are 3 "time" slides in the Pre-Service section of Pro Presenter.  For second service, we click on the "12:00" timer and then the video from Lewis Center
   - Start the "Pre service" playlist in spotify
   - Make any adjustments needed to sermon or worship slides after second service.  
-  - "Chill" until second service starts
+  - "Chill" until third service starts
 
 

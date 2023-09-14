@@ -43,7 +43,9 @@ weight: 1
 
     ![Send File](./images/send_file.png)
   - Once the transfer is complete, click "close."  
-  ***NOTE*** You can continue to work on other things in the background while the transfer happens.
+  {{% notice style="info" %}}
+  You can continue to work on other things in the background while the transfer happens.
+  {{% /notice %}}
 
 ## Importing and setting up Worship Slides
   - Once you have gotten the worship slides file (PROPLAYLIST FILE) onto the Mac Mini, we're ready to import it into pro presenter, and add it to this week's playlist.
@@ -85,9 +87,14 @@ weight: 1
         - Bad
 
         ![Bad Macro Example](./images/bad_macro_example.png)
-    - ***NOTE*** It's ***most*** important to have the macro on the first song of the worship set and the closing song, but it's good practice to put them on all.  The macro changes from the countdown timer on the confidence monitor to lyrics on the confidence monitor.
+    {{% notice style="tip" %}}
+    It's ***most*** important to have the macro on the first song of the worship set and the closing song, but it's good practice to put them on all.  The macro changes from the countdown timer on the confidence monitor to lyrics on the confidence monitor.
+    {{% /notice %}}
+
     - For each song, we need to make sure we've applied the Westerville Theme.  The Macro is supposed to make sure the theme is good, but it doesn't always catch everything, so we err on the side of caution.
-      - ***NOTE*** If you're doing this remotely on your computer, the "Open-Apple" command is the "Windows button."
+      {{% notice style="tip" %}}
+      If you're doing this remotely on your computer, the "Open-Apple" command is the "Windows button."
+      {{% /notice %}}
       - Select the first slide (background) of the song, and hit "Open-Apple + A" to "select all."  You can also use use "Edit -> Select All" from the menu.
         - Once all the slides for that song are selected, Right-Click -> Themes -> WV Lyrics -> Theme Slide
 

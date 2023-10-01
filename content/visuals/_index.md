@@ -8,7 +8,7 @@ title: Visuals
 - [ ] Import playlist from LC
 - [ ] Compare LC playlist to what's in Planning Center
 - [ ] Confirm Macros are correct
-- [ ] Make sure message slides are prepared
+- [ ] Prepare message slides (watch out for underlines!)
 
 ## Quick Day of Setup Checklist
 - [ ] Restart Mac

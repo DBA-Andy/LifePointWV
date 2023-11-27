@@ -16,7 +16,7 @@ weight: 5
   - Once worship completes, there is generally a "meet and greet."  Once the worship leader announces "please greet someone near you" we'll select option "2" (walk-in/walk-out) and the sound engineer will turn the music back up.
 ### Message
   - We're now watching for the teaching pastor to be ready to start speaking.  When they appear ready, we'll select option "5" (message)  on the lighting panel.
-  - I've started printing Matthew's outline so I have a good feel for when he's about to say something that should trigger a slide on the screen, but in general, we're watching for patterns each service and making sure the slides show up when they're expected.
+  - I've started printing Matthew's outline, or taking a tablet and bringing it up to follow along, so I have a good feel for when he's about to say something that should trigger a slide on the screen, but in general, we're watching for patterns each service and making sure the slides show up when they're expected.
 ### Closing Song
   - After the message has been delivered, it's time for the closing worship song.  Back to option "4" (worship) on the lighting panel.
 ### Announcements

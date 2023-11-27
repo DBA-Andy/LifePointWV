@@ -20,7 +20,7 @@ weight: 5
 ### Closing Song
   - After the message has been delivered, it's time for the closing worship song.  Back to option "4" (worship) on the lighting panel.
 ### Announcements
-  - There are usually announcements after the closing worship song.  Back to option "5" on the lighting panel to put the focus on the person doing announcements.  We're now working through the "announcements" section and putting slides up as the announcer talks about them.
+  - There are usually announcements after the closing worship song.  Select option "3" on the lighting panel to put the focus on the person doing announcements.  We're now working through the "announcements" section and putting slides up as the announcer talks about them.
     - There's generally a "call" to visit next steps (flash next steps slide).
     - There's generally something about "we're so grateful for the way you give" (flash the giving slide).
     - It's 50/50 whether they call for the "LP Guest" slide or not.  Follow the queues.
